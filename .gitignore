@@ -135,4 +135,5 @@ dist
 
 # Start Python
 .env/*
+*/__pycache__/*
 # End Python

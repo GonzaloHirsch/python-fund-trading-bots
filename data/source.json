@@ -1,0 +1,147 @@
+{
+    "data": {
+        "funds": [
+            {
+                "pricingDetails": {
+                    "navPrices": {
+                        "items": [
+                            {
+                                "price": 368.1757,
+                                "asOfDate": "2024-10-11",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 367.3003,
+                                "asOfDate": "2024-10-10",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 366.9351,
+                                "asOfDate": "2024-10-09",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 364.6916,
+                                "asOfDate": "2024-10-08",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 365.4153,
+                                "asOfDate": "2024-10-07",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 365.6873,
+                                "asOfDate": "2024-10-04",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 364.0038,
+                                "asOfDate": "2024-10-03",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 362.4302,
+                                "asOfDate": "2024-10-02",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 361.8298,
+                                "asOfDate": "2024-10-01",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 360.9137,
+                                "asOfDate": "2024-09-30",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 362.3239,
+                                "asOfDate": "2024-09-27",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 360.7804,
+                                "asOfDate": "2024-09-26",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 358.4777,
+                                "asOfDate": "2024-09-25",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 359.0674,
+                                "asOfDate": "2024-09-24",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 358.2092,
+                                "asOfDate": "2024-09-23",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 358.6137,
+                                "asOfDate": "2024-09-20",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 360.9857,
+                                "asOfDate": "2024-09-19",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 356.5797,
+                                "asOfDate": "2024-09-18",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 358.3942,
+                                "asOfDate": "2024-09-17",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 357.7667,
+                                "asOfDate": "2024-09-16",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            },
+                            {
+                                "price": 357.788,
+                                "asOfDate": "2024-09-13",
+                                "currencyCode": "GBP",
+                                "__typename": "FundPrice"
+                            }
+                        ],
+                        "__typename": "FundPrices"
+                    },
+                    "marketPrices": {
+                        "items": [],
+                        "__typename": "FundMarketPrices"
+                    },
+                    "__typename": "PricingDetails"
+                },
+                "__typename": "Fund"
+            }
+        ]
+    }
+}

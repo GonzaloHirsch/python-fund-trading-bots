@@ -1,0 +1,35 @@
+query PriceDetailsQuery(
+  $portIds: [String!]!
+  $startDate: String!
+  $endDate: String!
+  $limit: Float
+) {
+  funds(portIds: $portIds) {
+    pricingDetails {
+      navPrices(startDate: $startDate, endDate: $endDate, limit: $limit) {
+        items {
+          price
+          asOfDate
+          currencyCode
+          __typename
+        }
+        __typename
+      }
+      marketPrices(startDate: $startDate, endDate: $endDate, limit: $limit) {
+        items {
+          portId
+          items {
+            price
+            asOfDate
+            currencyCode
+            __typename
+          }
+          __typename
+        }
+        __typename
+      }
+      __typename
+    }
+    __typename
+  }
+}
