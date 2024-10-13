@@ -133,6 +133,6 @@ dist
 .DS_Store
 # End MAC Specific
 
-# Start this specific
-viz.config.json
-# End this specific
+# Start Python
+.env/*
+# End Python

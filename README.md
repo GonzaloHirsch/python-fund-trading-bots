@@ -1,28 +1,27 @@
-# Traffic Visualizer (traffic-visualizer)
+# Python Fund Traders (python-fund-trading-bots)
 
-![NPM Version](https://img.shields.io/npm/v/traffic-visualizer)
-![NPM Downloads](https://img.shields.io/npm/dm/traffic-visualizer)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/GonzaloHirsch/traffic-visualizer)
-![GitHub License](https://img.shields.io/github/license/GonzaloHirsch/traffic-visualizer)
-
-[Cloud Run](https://cloud.google.com/run) is one of the **serverless computing services from the Google Cloud Platform**. In it, you **run Docker container images** that are purpose-built for your application.
-
-No solutions by Google Cloud allow you to visualize traffic in real time, breaking it down for you.
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/GonzaloHirsch/python-fund-trading-bots)
+![GitHub License](https://img.shields.io/github/license/GonzaloHirsch/python-fund-trading-bots)
 
 ---
 
+- [Setup](#setup)
 - [Acknowledgements](#acknowledgements)
 - [About the Author](#about-the-author)
 
 ---
+
+## Setup
+
+```bash
+virtualenv .env && source .env/bin/activate
+```
 
 ## Acknowledgements
 
 Some acknowledgements:
 
 - Badges --> https://shields.io/badges/npm-downloads
-- Vue 3 SSR Scaffolding --> https://github.com/shenron/vue3-example-ssr/tree/master
-- Charts --> https://developers.google.com/chart/interactive/docs
 
 ## About the Author
 
