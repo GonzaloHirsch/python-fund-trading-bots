@@ -137,3 +137,7 @@ dist
 .env/*
 */__pycache__/*
 # End Python
+
+# Start Notebooks
+.ipynb_checkpoints
+# End Notebooks
